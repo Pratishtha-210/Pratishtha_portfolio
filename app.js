@@ -316,11 +316,11 @@ function buildContent(id) {
 function contentAbout() {
   return `
   <div style="display:flex;gap:10px;align-items:flex-start;margin-bottom:10px">
-    <div style="font-size:56px;line-height:1;flex-shrink:0">🐧</div>
+    <img src="profile.jpg" alt="Pratishtha Sharma" style="width:64px;height:80px;object-fit:cover;border:2px inset #808080;flex-shrink:0;"/>
     <div>
       <div style="font-size:16px;font-weight:bold;color:#000080">Pratishtha Sharma</div>
       <div style="font-size:11px;color:#444;margin-top:2px">Full-Stack Developer · AI/ML Enthusiast · Research Intern</div>
-      <div style="font-size:11px;color:#444">B.Tech CSE · SRMIST KTR · CGPA 9.09/10</div>
+      <div style="font-size:11px;color:#444">B.Tech CSE · SRMIST Ghaziabad · CGPA 9.09/10</div>
     </div>
   </div>
   <div class="w95-section">
