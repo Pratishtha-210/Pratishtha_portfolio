@@ -449,6 +449,7 @@ function contentProjects() {
       period: 'May 2025',
       stack: ['React.js','Node.js','Blockchain','Python','ML'],
       color: '#fff8e0', border: '#cc8800',
+      github: 'https://github.com/Pratishtha-210/VoltVex',
       live: 'https://voltvex.vercel.app/',
       bullets: [
         'Established a decentralized peer-to-peer energy trading platform enabling producers to list surplus solar energy and consumers to place bids using blockchain technology',
@@ -462,6 +463,7 @@ function contentProjects() {
       period: 'Oct 2025',
       stack: ['MongoDB','Express.js','React.js','Node.js'],
       color: '#ffebee', border: '#b71c1c',
+      github: 'https://github.com/Pratishtha-210/Ink-and-Echoes',
       live: 'https://ink-and-echoes-frontend.vercel.app/',
       bullets: [
         'Developed a full-stack blogging platform featuring JWT authentication, a rich text markdown editor, and dynamic commenting',
@@ -475,6 +477,7 @@ function contentProjects() {
       period: 'Jul 2024',
       stack: ['Python','OpenCV','NumPy'],
       color: '#f3e5f5', border: '#4a148c',
+      github: 'https://github.com/Pratishtha-210/invisibility-cloak',
       live: 'https://pratishtha-210.github.io/invisibility-cloak/',
       bullets: [
         'Created a real-time computer vision application using OpenCV to segment out a specific color (red/blue) and replace it with a captured background frame',
@@ -488,6 +491,7 @@ function contentProjects() {
       period: 'Mar 2025',
       stack: ['React.js','Node.js','Google Maps API','Razorpay','Arduino IoT'],
       color: '#e0ffe8', border: '#008000',
+      github: 'https://github.com/Pratishtha-210/WasteWise',
       bullets: [
         'QR-based gamified recycling with point rewards — <strong>100+ simulated interactions</strong>, 40% engagement boost',
         'Google Maps API integration with <strong>50+ recycling centres</strong>, 25% navigation time reduction',
@@ -657,6 +661,7 @@ GitHub: https://github.com/Pratishtha-210/community-access-platform
 VoltVex — Decentralized Solar Energy Trading Platform
 Stack: React.js, Node.js, JavaScript, Blockchain, Python
 Link : https://voltvex.vercel.app/
+GitHub: https://github.com/Pratishtha-210/VoltVex
 • Established a decentralized peer-to-peer energy trading platform enabling producers to
   list surplus solar energy and consumers to place bids using blockchain technology
 • Crafted Producer and Consumer dashboards with role-specific workflows and an integrated
@@ -668,6 +673,7 @@ Link : https://voltvex.vercel.app/
 Ink & Echoes — Social Blogging & Creative Writing Platform
 Stack: MongoDB, Express.js, React.js, Node.js
 Link : https://ink-and-echoes-frontend.vercel.app/
+GitHub: https://github.com/Pratishtha-210/Ink-and-Echoes
 • Developed a full-stack blogging platform featuring JWT authentication, a rich text
   markdown editor, and dynamic commenting
 • Optimized database queries with MongoDB indexing, reducing dashboard data retrieval
@@ -678,6 +684,7 @@ Link : https://ink-and-echoes-frontend.vercel.app/
 Harry Potter Invisibility Cloak — Computer Vision Magic Cloak
 Stack: Python, OpenCV, NumPy
 Link : https://pratishtha-210.github.io/invisibility-cloak/
+GitHub: https://github.com/Pratishtha-210/invisibility-cloak
 • Created a real-time computer vision application using OpenCV to segment out a specific
   color (red/blue) and replace it with a captured background frame
 • Implemented HSV color space thresholding and morphological operations (dilation/erosion)
@@ -686,6 +693,7 @@ Link : https://pratishtha-210.github.io/invisibility-cloak/
 
 WasteWise — Gamified Recycling Platform
 Stack: React.js, Node.js, Google Maps API, Razorpay, Arduino IoT
+GitHub: https://github.com/Pratishtha-210/WasteWise
 • QR-based gamified recycling with point rewards — 100+ simulated interactions, 40%
   engagement boost
 • Google Maps API integration with 50+ recycling centres, 25% navigation time reduction
