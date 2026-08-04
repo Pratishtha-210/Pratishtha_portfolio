@@ -444,6 +444,20 @@ function contentProjects() {
       ]
     },
     {
+      emoji: '🍉', name: 'Fruit Ninja AI',
+      sub: 'AI Hand Tracking Gesture Game',
+      period: 'Aug 2024',
+      stack: ['JavaScript','HTML5 Canvas','MediaPipe','Web Audio API','CSS3'],
+      color: '#fff0f5', border: '#d81b60',
+      github: 'https://github.com/Pratishtha-210/fruit-ninjaa',
+      live: 'https://fruit-ninjaa-chi.vercel.app/',
+      bullets: [
+        'Built an interactive browser-based Fruit Ninja game featuring real-time AI hand tracking powered by Google MediaPipe Hands for touchless webcam gesture slicing',
+        'Implemented hybrid input handling (webcam index-finger tracking + mouse/touch fallback) with 3 game modes (Classic, Zen, Arcade) and 4 customizable blade trail effects',
+        'Engineered custom HTML5 Canvas particle physics for fruit splitting, juice splatters, combo multipliers, and zero-dependency synthesized audio via Web Audio API'
+      ]
+    },
+    {
       emoji: '⚡', name: 'VoltVex',
       sub: 'Decentralised Solar Energy Trading DApp',
       period: 'May 2025',
@@ -657,6 +671,17 @@ GitHub: https://github.com/Pratishtha-210/community-access-platform
   intent detection, conversation history, caching, and real-time web enrichment in <2s
 • Delivered a Progressive Web App (PWA) with Speech-to-Text (STT) and Text-to-Speech (TTS),
   reducing backend payload size by ~74% with multi-layer caching and GZip compression
+
+Fruit Ninja AI — AI Hand Tracking Gesture Game
+Stack: JavaScript, HTML5 Canvas, MediaPipe, Web Audio API, CSS3
+Link : https://fruit-ninjaa-chi.vercel.app/
+GitHub: https://github.com/Pratishtha-210/fruit-ninjaa
+• Built an interactive browser-based Fruit Ninja game featuring real-time AI hand tracking
+  powered by Google MediaPipe Hands for touchless webcam gesture slicing
+• Implemented hybrid input handling (webcam index-finger tracking + mouse/touch fallback) with
+  3 game modes (Classic, Zen, Arcade) and 4 customizable blade trail effects
+• Engineered custom HTML5 Canvas particle physics for fruit splitting, juice splatters, combo
+  multipliers, and zero-dependency synthesized audio via Web Audio API
 
 VoltVex — Decentralized Solar Energy Trading Platform
 Stack: React.js, Node.js, JavaScript, Blockchain, Python
